@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Razor Fun</title>
+    <link rel="stylesheet" href="~/css/style.css"/>
+</head>
+<body>
+    <h1>Razor Fun!</h1>
+    <h2>Here are some delicious foods!</h2>
+    @{
+        var StringList = new List<String> {
+                "Apple pie",
+                "Burritos",
+                "Clams Casino",
+                "Donuts"
+            };
+        foreach(var word in StringList){
+            if(word[0] == 'C'){
+                <p class="red">@word</p>
+            } else {
+                <p>@word</p>
+            }
+            
+            
+        }
+    }
+</body>
+</html>

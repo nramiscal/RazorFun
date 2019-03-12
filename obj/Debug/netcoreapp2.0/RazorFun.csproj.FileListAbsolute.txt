@@ -1,0 +1,10 @@
+/Users/nramiscal/Desktop/CSharp/MVC/RazorFun/bin/Debug/netcoreapp2.0/RazorFun.deps.json
+/Users/nramiscal/Desktop/CSharp/MVC/RazorFun/bin/Debug/netcoreapp2.0/RazorFun.runtimeconfig.json
+/Users/nramiscal/Desktop/CSharp/MVC/RazorFun/bin/Debug/netcoreapp2.0/RazorFun.runtimeconfig.dev.json
+/Users/nramiscal/Desktop/CSharp/MVC/RazorFun/bin/Debug/netcoreapp2.0/RazorFun.dll
+/Users/nramiscal/Desktop/CSharp/MVC/RazorFun/bin/Debug/netcoreapp2.0/RazorFun.pdb
+/Users/nramiscal/Desktop/CSharp/MVC/RazorFun/obj/Debug/netcoreapp2.0/RazorFun.csproj.CoreCompileInputs.cache
+/Users/nramiscal/Desktop/CSharp/MVC/RazorFun/obj/Debug/netcoreapp2.0/RazorFun.AssemblyInfoInputs.cache
+/Users/nramiscal/Desktop/CSharp/MVC/RazorFun/obj/Debug/netcoreapp2.0/RazorFun.AssemblyInfo.cs
+/Users/nramiscal/Desktop/CSharp/MVC/RazorFun/obj/Debug/netcoreapp2.0/RazorFun.dll
+/Users/nramiscal/Desktop/CSharp/MVC/RazorFun/obj/Debug/netcoreapp2.0/RazorFun.pdb
